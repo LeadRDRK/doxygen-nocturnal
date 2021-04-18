@@ -11,4 +11,4 @@ Also modify the colorstyle's gamma to match the theme.
 ```
 HTML_COLORSTYLE_GAMMA  = 180
 ```
-Additionally, you may want use a custom DoxygenLayout.xml and change the Main Page's tab title to your project name.
+Additionally, you may want to use a custom DoxygenLayout.xml and change the Main Page's tab title to your project name.
